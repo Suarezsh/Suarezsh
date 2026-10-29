@@ -141,20 +141,6 @@ Aplicado en **enosa-energy-predictor**: prediccion de consumo electrico con scik
 
 ---
 
-## Estadisticas GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Suarezsh&show_icons=true&theme=dark&hide_border=true&count_private=true&locale=es" />
-  &nbsp;
-  <img height="165" src="https://streak-stats.demolab.com/?user=Suarezsh&theme=dark&hide_border=true&locale=es" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Suarezsh&layout=compact&theme=dark&hide_border=true&langs_count=8&locale=es" />
-</p>
-
----
-
 <div align="center">
 
 Ingeniería de Sistemas &nbsp;·&nbsp; Universidad Nacional de San Agustín &nbsp;·&nbsp; Arequipa, Perú
