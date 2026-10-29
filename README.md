@@ -1,148 +1,103 @@
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Suarezsh&color=0d1117&style=flat-square&label=Visitas+al+perfil" />
-&nbsp;&nbsp;
-<a href="https://github.com/Suarezsh?tab=followers">
-  <img src="https://img.shields.io/github/followers/Suarezsh?style=flat-square&color=0d1117&label=Seguidores" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=Suarezsh&color=555&style=flat-square&label=Visitas" />
 
 <br/><br/>
 
-# Marco Suárez
+# MARCO SUÁREZ
 
-**Desarrollador de Software &nbsp;|&nbsp; Desarrollo Web &nbsp;|&nbsp; Python &nbsp;|&nbsp; Inteligencia Artificial**
+### Desarrollador de Software
 
-Estudiante de Ingeniería de Sistemas en la Universidad Nacional de San Agustín, Arequipa.
-Construyo soluciones web, sistemas de gestión, herramientas de análisis de datos y aplicaciones con inteligencia artificial.
-Con experiencia en proyectos de visión por computadora, automatización de procesos y desarrollo fullstack.
-
-![Location](https://img.shields.io/badge/Arequipa%2C%20Per%C3%BA-0d1117?style=flat-square&logo=googlemaps&logoColor=white)
-![UNSA](https://img.shields.io/badge/UNSA-Ing.%20de%20Sistemas-0d1117?style=flat-square&logo=academia&logoColor=white)
+**msuarez@unsa.edu.pe** &nbsp;·&nbsp; Arequipa, Perú &nbsp;·&nbsp; [github.com/Suarezsh](https://github.com/Suarezsh)
 
 </div>
 
 ---
 
-## Lenguajes de programacion
+## PERFIL
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,java,js,ts,php,html,css,perl&perline=8" />
-</p>
-
-| Lenguaje | Uso principal |
-|---|---|
-| Python | Machine learning, vision por computadora, automatizacion, APIs |
-| Java | Aplicaciones de escritorio con Swing, APIs REST con Spring Boot |
-| JavaScript / TypeScript | Frontends con Angular y Vue, logica web, APIs con Node |
-| PHP | Sistemas web con CRUD, integracion con MySQL y SQLite |
-| HTML / CSS | Interfaces web responsivas con Bootstrap y Tailwind |
-| Perl | Aplicaciones CGI academicas |
+Estudiante de Ingeniería de Sistemas con experiencia en desarrollo web fullstack, análisis de datos, visión por computadora e inteligencia artificial generativa. He construido sistemas de gestión empresarial, herramientas de predicción con machine learning, aplicaciones de detección en tiempo real y chatbots médicos con LLMs. Orientado a soluciones reales y código limpio.
 
 ---
 
-## Frameworks y librerias web
+## HABILIDADES TÉCNICAS
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=django,fastapi,angular,vue,bootstrap,tailwind,jquery,nodejs&perline=8" />
-</p>
-
-- **Django** — Aplicaciones web con ORM, autenticacion y panel admin
-- **FastAPI** — APIs REST asincronas con documentacion automatica (Swagger)
-- **Angular** — SPAs con TypeScript, routing, SSR y consumo de APIs
-- **Vue.js 2** — Interfaces reactivas embebidas en proyectos HTML/PHP
-- **Bootstrap** — Sistema de grillas, componentes y diseno responsivo
-- **Tailwind CSS** — Estilos utilitarios para interfaces modernas
-- **jQuery** — Manipulacion del DOM y AJAX en sistemas web
-- **Node.js** — Runtime para proyectos Angular SSR y tooling
-
----
-
-## Backend, bases de datos y herramientas de servidor
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,maven,mysql,sqlite,postgres,npm,git,github&perline=8" />
-</p>
-
-- **Spring Boot + Maven** — API REST, Spring MVC, Lombok, Spring DevTools
-- **MySQL** — Diseno de esquemas relacionales, consultas avanzadas, integracion con PHP (mysqli / PDO) y Java (JDBC)
-- **SQLite** — Base de datos embebida en proyectos Python y desktop apps
-- **PostgreSQL** — Manejo en proyectos web y analisis de datos
-- **Git / GitHub** — Control de versiones, ramas, pull requests, GitHub Pages
-- **npm / Maven** — Gestion de dependencias en proyectos JS y Java
-
----
-
-## Ciencia de datos y machine learning
-
-<p align="left">
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/XGBoost-189ABE?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-</p>
-
-Aplicado en **enosa-energy-predictor**: prediccion de consumo electrico con scikit-learn y XGBoost, visualizaciones interactivas con Plotly, dashboard en Streamlit.
+<table>
+<tr>
+<td width="200"><strong>Lenguajes</strong></td>
+<td>Python &nbsp;·&nbsp; Java &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; PHP &nbsp;·&nbsp; HTML &nbsp;·&nbsp; CSS &nbsp;·&nbsp; Perl</td>
+</tr>
+<tr>
+<td><strong>Frameworks web</strong></td>
+<td>Django &nbsp;·&nbsp; FastAPI &nbsp;·&nbsp; Angular &nbsp;·&nbsp; Vue.js &nbsp;·&nbsp; Bootstrap &nbsp;·&nbsp; Tailwind CSS &nbsp;·&nbsp; jQuery &nbsp;·&nbsp; Node.js</td>
+</tr>
+<tr>
+<td><strong>Backend / BD</strong></td>
+<td>Spring Boot &nbsp;·&nbsp; MySQL &nbsp;·&nbsp; SQLite &nbsp;·&nbsp; PostgreSQL &nbsp;·&nbsp; PDO &nbsp;·&nbsp; JDBC &nbsp;·&nbsp; Maven &nbsp;·&nbsp; npm</td>
+</tr>
+<tr>
+<td><strong>Datos y ML</strong></td>
+<td>NumPy &nbsp;·&nbsp; Pandas &nbsp;·&nbsp; scikit-learn &nbsp;·&nbsp; XGBoost &nbsp;·&nbsp; Matplotlib &nbsp;·&nbsp; Seaborn &nbsp;·&nbsp; Plotly &nbsp;·&nbsp; Streamlit</td>
+</tr>
+<tr>
+<td><strong>Vision por computadora</strong></td>
+<td>OpenCV &nbsp;·&nbsp; MediaPipe &nbsp;·&nbsp; Ultralytics YOLO &nbsp;·&nbsp; face_recognition &nbsp;·&nbsp; Pygame &nbsp;·&nbsp; CustomTkinter</td>
+</tr>
+<tr>
+<td><strong>IA generativa</strong></td>
+<td>Google Gemini (gemini-2.5-flash) &nbsp;·&nbsp; Groq API &nbsp;·&nbsp; Google APIs</td>
+</tr>
+<tr>
+<td><strong>Herramientas</strong></td>
+<td>Git &nbsp;·&nbsp; GitHub &nbsp;·&nbsp; VS Code &nbsp;·&nbsp; Chart.js &nbsp;·&nbsp; D3.js &nbsp;·&nbsp; jsPDF &nbsp;·&nbsp; Mermaid &nbsp;·&nbsp; SweetAlert2 &nbsp;·&nbsp; Font Awesome</td>
+</tr>
+</table>
 
 ---
 
-## Vision por computadora e IA
+## PROYECTOS DESTACADOS
 
-<p align="left">
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/MediaPipe-00897B?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Ultralytics%20YOLO-111111?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/face--recognition-4B8BBE?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Pygame-346D27?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/CustomTkinter-1F6AA5?style=for-the-badge&logo=python&logoColor=white" />
-</p>
+**Asistencia con Deteccion de EPP** &nbsp;·&nbsp; Python, OpenCV, YOLO, face_recognition, SQLite
+Sistema de control de asistencia que detecta en tiempo real si el personal usa equipos de proteccion personal (casco, guantes, chaleco). Identificacion facial integrada con base de datos.
 
-- **OpenCV** — Procesamiento de imagenes, captura de video, juegos con deteccion de gestos
-- **MediaPipe** — Deteccion de postura corporal en tiempo real
-- **Ultralytics YOLO** — Deteccion de objetos y EPP en tiempo real
-- **face_recognition** — Identificacion facial para control de asistencia
-- **Pygame** — Simulaciones con algoritmos Q-learning y A*
-- **CustomTkinter** — Interfaces de escritorio modernas con Python
+**ENOSA Energy Predictor** &nbsp;·&nbsp; Python, scikit-learn, XGBoost, Pandas, Streamlit, Plotly
+Herramienta de prediccion de consumo electrico para la empresa ENOSA. Modelos de regresion con scikit-learn y XGBoost, visualizaciones interactivas y dashboard en Streamlit.
 
----
+**SaludPlus IA Chatbot** &nbsp;·&nbsp; FastAPI, Groq API, CSS
+Chatbot medico construido con FastAPI como backend y Groq (LLM) como motor de lenguaje. Orientacion en salud con respuestas rapidas y contextualizadas.
 
-## IA generativa y APIs de lenguaje
+**RehabDrive** &nbsp;·&nbsp; Python, MediaPipe, Google Gemini, OpenCV, pygame
+Sistema de rehabilitacion fisica que detecta posturas corporales con MediaPipe y retroalimenta al usuario con Gemini. Interfaz grafica con pygame.
 
-<p align="left">
-<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Groq%20API-F55036?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Google%20APIs-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-</p>
+**Robot Laberinto IA** &nbsp;·&nbsp; Python, Q-learning, A\*, tkinter
+Agente que aprende a resolver laberintos usando Q-learning o A\* con interfaz grafica interactiva. Visualizacion del proceso de aprendizaje en tiempo real.
 
-- **Google Gemini** (gemini-2.5-flash) — Asistente de rehabilitacion, chatbot educativo
-- **Groq API** — Backend de chatbot medico con FastAPI
-- **Google APIs** — Maps, OAuth, Sheets en proyectos web
+**Sistema POS** &nbsp;·&nbsp; PHP, MySQL, Tailwind CSS, SQLite, jsPDF
+Sistema de punto de venta con gestion de productos, ventas, reportes y exportacion de facturas en PDF. Interfaz moderna con Tailwind.
+
+**Yachay Tea** &nbsp;·&nbsp; HTML, Vue.js, Google Gemini, Google APIs
+Plataforma educativa de infusiones con asistente de IA integrado (Gemini), autenticacion con Google y mapas interactivos.
+
+**djangoLibros** &nbsp;·&nbsp; Django, SQLite, Python
+Sistema de gestion de biblioteca con autenticacion, panel de administracion y CRUD completo usando el ORM de Django.
 
 ---
 
-## Herramientas adicionales
+## EDUCACION
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=vscode,postman&perline=8" />
-</p>
-<p align="left">
-<img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/jsPDF-FF0000?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/QRCode.js-000000?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Mermaid-FF3670?style=for-the-badge&logo=mermaid&logoColor=white" />
-<img src="https://img.shields.io/badge/SheetJS-217346?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/SweetAlert2-FF6B6B?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Font%20Awesome-528DD7?style=for-the-badge&logo=fontawesome&logoColor=white" />
+**Universidad Nacional de San Agustín** &nbsp;·&nbsp; Arequipa, Perú
+Ingeniería de Sistemas &nbsp;|&nbsp; 2021 – Presente
+
+---
+
+## ACTIVIDAD
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Suarezsh&theme=default&hide_border=true&locale=es" />
 </p>
 
 ---
 
 <div align="center">
-
-Ingeniería de Sistemas &nbsp;·&nbsp; Universidad Nacional de San Agustín &nbsp;·&nbsp; Arequipa, Perú
-
+  <sub>58 repositorios &nbsp;·&nbsp; 603 contribuciones &nbsp;·&nbsp; 2021 – 2026</sub>
 </div>
