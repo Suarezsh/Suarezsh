@@ -139,20 +139,22 @@ Sistema de gestion de biblioteca con autenticacion, panel de administracion y CR
 ## EDUCACION
 
 **Universidad Nacional de San Agustín** &nbsp;·&nbsp; Arequipa, Perú
-Ingeniería de Sistemas &nbsp;|&nbsp; 2021 – Presente
+Ingeniería de Sistemas
 
 ---
 
 ## ESTADÍSTICAS
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Suarezsh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=es" />
-  &nbsp;
-  <img height="170" src="https://streak-stats.demolab.com/?user=Suarezsh&theme=tokyonight&hide_border=true&locale=es" />
-</p>
+**Distribucion de lenguajes**
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Suarezsh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=es" />
+  <img src="https://quickchart.io/chart?c=%7B%22type%22%3A%22horizontalBar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22PHP%22%2C%22HTML%22%2C%22Java%22%2C%22Python%22%2C%22JavaScript%22%2C%22CSS%22%2C%22TypeScript%22%2C%22Perl%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22%25%20del%20codigo%22%2C%22data%22%3A%5B32.8%2C30.6%2C10.1%2C9.6%2C6.5%2C4.6%2C1.1%2C0.3%5D%2C%22backgroundColor%22%3A%5B%22%234F5D95%22%2C%22%23e34c26%22%2C%22%23b07219%22%2C%22%233572A5%22%2C%22%23f1e05a%22%2C%22%23563d7c%22%2C%22%232b7489%22%2C%22%230298c3%22%5D%7D%5D%7D%7D&width=500&height=220&backgroundColor=white" />
+</p>
+
+**Actividad en GitHub**
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Suarezsh&theme=tokyonight&hide_border=true&locale=es&width=500" />
 </p>
 
 ---
